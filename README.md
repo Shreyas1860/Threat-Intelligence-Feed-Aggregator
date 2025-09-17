@@ -25,8 +25,8 @@ This tool is a foundational element for many defensive security operations, allo
 ### 2. Installation
 1.  Clone the repository:
     ```bash
-    git clone [https://github.com/your_username/your_repository.git](https://github.com/your_username/your_repository.git)
-    cd your_repository
+    git clone https://github.com/Shreyas1860/Threat-Intelligence-Feed-Aggregator
+    cd Threat-Intelligence-Feed-Aggregator
     ```
 2.  Install the required library:
     ```bash
